@@ -1,0 +1,2 @@
+In this project i'm trying to learn a mechanism of exceptions and interfaces in Java. I made two classes (Automobile and Motorcycle) with the similar methods, wrote an interface, described classes of exceptions and added 
+them to my Classes. Also there is a class with static methods.
